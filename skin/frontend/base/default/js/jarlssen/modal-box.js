@@ -24,10 +24,13 @@ var ModalBox = Class.create({
                 'marginLeft': width / 2 * -1 + 'px'
             });
 
+            /* Height has to be set after the width is set because setting the width may change height */
             var height = Math.min(allowedHeight, popup.getHeight());
             popup.setStyle({
                 'height': allowedHeight > popup.getHeight() ? null : height + 'px',
-                'marginTop': height / 2 * -1 + 'px'
+                'marginTop': height / 2 * -1 + 'px',
+                'top': '50%',
+                'left': '50%'
             });
             if (allowedHeight > popup.getHeight()) {
                 content_container.setStyle({ 'height': null });
