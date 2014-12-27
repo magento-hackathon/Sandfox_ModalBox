@@ -1,4 +1,4 @@
-/app/etc/modules/Jarlssen_ModalBox.xml                  /app/etc/modules/Jarlssen_ModalBox.xml
-/skin/frontend/base/default/css/jarlssen/modal-box.css  /skin/frontend/base/default/css/jarlssen/modal-box.css
-/skin/frontend/base/default/js/jarlssen/modal-box.js    /skin/frontend/base/default/js/jarlssen/modal-box.js
-/skin/frontend/base/default/images/jarlssen/modal-box   /skin/frontend/base/default/images/jarlssen/modal-box
+app/etc/modules/Sandfox_ModalBox.xml                    app/etc/modules/Sandfox_ModalBox.xml
+skin/frontend/base/default/css/sandfox/modal-box.css    skin/frontend/base/default/css/sandfox/modal-box.css
+skin/frontend/base/default/js/sandfox/modal-box.js      skin/frontend/base/default/js/sandfox/modal-box.js
+skin/frontend/base/default/images/sandfox/modal-box     skin/frontend/base/default/images/sandfox/modal-box

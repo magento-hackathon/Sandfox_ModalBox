@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Jarlssen_ModalBox>
+        <Sandfox_ModalBox>
             <active>true</active>
             <codePool>community</codePool>
-        </Jarlssen_ModalBox>
+        </Sandfox_ModalBox>
     </modules>
 </config>
